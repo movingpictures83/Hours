@@ -1,0 +1,2 @@
+Prefix plugins/Hours/example/
+Plugin Hours inputfile Merged.csv outputfile Hourly.csv
